@@ -113,6 +113,8 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  BSP_LED_Toggle(LED_GREEN);
+	  HAL_Delay(666);
 
     /* USER CODE END WHILE */
 
