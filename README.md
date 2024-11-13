@@ -1,5 +1,5 @@
 # Rappels de microcontrôleurs
-## Erreurs recontrés en Ubuntu 24 et solutions
+## Erreurs de STM32CubeIDE recontrés en Ubuntu 24 et solutions
 ### libncurses5 missing
 > Could not determine GDB version using command: /opt/st/stm32cubeide_1.2.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.linux64_1.0.0.201904181610/tools/bin/arm-none-eabi-gdb --version
 
